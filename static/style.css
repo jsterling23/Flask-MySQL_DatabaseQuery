@@ -1,0 +1,14 @@
+.wrapper {
+     margin: 0 auto;
+     border: 1px solid black;
+}
+
+table {
+     border: 1px solid black;
+     margin: 50px auto;
+
+}
+
+aside {
+     margin: 0px 0px 0px 10px;
+}
